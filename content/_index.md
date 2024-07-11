@@ -5,4 +5,6 @@ description: "A website by Davide Crucitti, where I share bits of information I 
 
 ## Articles
 
-- [Python Libraries for Chemistry](/posts/python-libraries/)
+{{range .Pages}}
+- [{{.Title}}]({{.Permalink}})
+{{end}}

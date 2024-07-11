@@ -1,9 +1,8 @@
 ---
-title: "Article 1"
+title: "Python Libraries for chemistry"
 date: 2024-07-11
 ---
 
-This is the content of Article 1.
 Python is a powerful programming language widely used in various scientific fields, including chemistry. The versatility and efficiency of Python have led to the development of numerous libraries tailored for chemical data manipulation. These libraries assist in everything from cheminformatics to molecular dynamics and quantum chemistry. Below is an incomplete list of Python libraries that can be used to manipulate different types of chemical data and perform different kinds of operations and calculations.
 
 
