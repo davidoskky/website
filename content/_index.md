@@ -5,6 +5,6 @@ description: "A website by Davide Crucitti, where I share bits of information I 
 
 ## Articles
 
-{{range .Pages}}
-- [{{.Title}}]({{.Permalink}})
-{{end}}
+{{ range .Site.RegularPages }}
+- [{{ .Title }}]({{ .Permalink }})
+{{ end }}
