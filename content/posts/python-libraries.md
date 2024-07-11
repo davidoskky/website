@@ -30,18 +30,15 @@ Python is a powerful programming language widely used in various scientific fiel
 
 ### Molecular Dynamics
 
-{{< table "table table-striped table-bordered" >}}
 | Library       | License      | Description                               |
 |---------------|--------------|-------------------------------------------|
 | MDAnalysis    | Open Source  | Analyzing molecular dynamics trajectories. |
 | OpenMM        | Open Source  | High-performance molecular dynamics simulations. |
 | BioSimSpace   | GPL3         | Interface to several MD engines. |
 | PyContact     | GPL3         | Analysis of non-covalent interactions in MD. |
-{{< /table >}}
 
 ### Macromolecules
 
-{{< table "table table-striped table-bordered" >}}
 | Library      | License      | Description                               |
 |--------------|--------------|-------------------------------------------|
 | Gemmi        | Open Source  | Macromolecules, 3D structures, molecular dynamics, format conversion. |
@@ -51,11 +48,9 @@ Python is a powerful programming language widely used in various scientific fiel
 | ChemLab      | GPL3         | Macromolecular visualization and system preparation. |
 | QCEngine     | BSD3         | Standardized interface for several QC and MM engines. |
 | Panel-Chemistry | MIT       | Visualization of molecules for building interfaces. |
-{{< /table >}}
 
 ### Machine Learning
 
-{{< table "table table-striped table-bordered" >}}
 | Library           | License      | Description                               |
 |-------------------|--------------|-------------------------------------------|
 | DeepChem          | Open Source  | Machine learning tools for drug discovery and quantum chemistry. |
@@ -71,11 +66,9 @@ Python is a powerful programming language widely used in various scientific fiel
 | AMPL              | MIT          | Automatic construction of ML predictive models. |
 | Matbench          | MIT          | Benchmarking machine learning for materials. |
 | pumml             | MIT          | Classify molecules with only positive data. |
-{{< /table >}}
 
 ### Quantum Chemistry
 
-{{< table "table table-striped table-bordered" >}}
 | Library       | License      | Description                               |
 |---------------|--------------|-------------------------------------------|
 | PySCF         | Open Source  | Quantum chemistry tools. |
@@ -85,30 +78,24 @@ Python is a powerful programming language widely used in various scientific fiel
 | Quacc         | BSD3         | Workflow manager for quantum calculations. |
 | GeomeTRIC     | BSD3         | Geometry optimization of molecules. |
 | Psikit        | BSD3         | Integrates Psi4 and RDKit. |
-{{< /table >}}
 
 ### Format Conversion
 
-{{< table "table table-striped table-bordered" >}}
 | Library      | License      | Description                               |
 |--------------|--------------|-------------------------------------------|
 | ParmEd       | LGPL         | Molecular mechanics parameter file editor. |
 | CDPKit       | LGPL         | Cheminformatics and format conversion. |
-{{< /table >}}
 
 ### Free Energy
 
-{{< table "table table-striped table-bordered" >}}
 | Library      | License      | Description                               |
 |--------------|--------------|-------------------------------------------|
 | OpenFE       | Open Source  | Free energy calculations in molecular dynamics. |
 | Lomap        | MIT          | Free energy calculations. |
 | Alchemlyb    | BSD3         | Automate alchemical free energy analysis. |
-{{< /table >}}
 
 ### Molecular Mechanics
 
-{{< table "table table-striped table-bordered" >}}
 | Library      | License      | Description                               |
 |--------------|--------------|-------------------------------------------|
 | ASE          | Open Source  | 3D structure manipulation and atomistic simulations. |
@@ -116,66 +103,51 @@ Python is a powerful programming language widely used in various scientific fiel
 | ACPYPE       | GPL3         | Interface to Antechamber for Amber. |
 | Chemcoord    | LGPL3        | Manipulate cartesian and internal coordinates. |
 | maml         | BSD3         | Materials simulations. |
-{{< /table >}}		
 
 ### Thermodynamics
 
-{{< table "table table-striped table-bordered" >}}
 | Library      | License      | Description                               |
 |--------------|--------------|-------------------------------------------|
 | Thermo       | MIT          | Thermodynamic properties calculation. |
 | Sella        | LGPL3        | Identify saddle points in thermodynamics. |
-{{< /table >}}
 
 ### Analytical Chemistry
 
-{{< table "table table-striped table-bordered" >}}
 | Library         | License      | Description                               |
 |-----------------|--------------|-------------------------------------------|
 | SpectroChemPy   | Free Software| Process and analyze spectrographic data. |
-{{< /table >}}
 
 ### Databases
 
-{{< table "table table-striped table-bordered" >}}
 | Library               | License      | Description                               |
 |-----------------------|--------------|-------------------------------------------|
 | Mendeleev             | MIT          | Periodic table information. |
 | Therapeutics Data Commons | MIT      | Datasets and benchmarks for drug discovery AI. |
 | usearch-molecules     | Apache2      | Molecular similarity and clustering based on fingerprints. |
 | PatentChem            | MIT          | Searches USPTO for patented molecules. |
-{{< /table >}}
 
 ### Automated Design
 
-{{< table "table table-striped table-bordered" >}}
 | Library        | License      | Description                               |
 |----------------|--------------|-------------------------------------------|
 | Reinvent       | Apache2      | Molecule generation and scoring framework. |
 | stk            | MIT          | Structural data manipulation and molecular design. |
-{{< /table >}}
 
 ### Visualization
 
-{{< table "table table-striped table-bordered" >}}
 | Library         | License      | Description                               |
 |-----------------|--------------|-------------------------------------------|
 | Panel-Chemistry | MIT          | Visualization of molecules for building interfaces. |
 | xyz2graph       | MIT          | Visualization of XYZ files and reconstruction of the molecular graph. |
-{{< /table >}}
 
 ### File Format
 
-{{< table "table table-striped table-bordered" >}}
 | Library       | License     | Description                |
 | ------------- | ----------- | -------------------------- |
 | Chemical JSON | Open Source | Chemical JSON file format. |
-{{< /table >}}
 
 ### ADMET
 
-{{< table "table table-striped table-bordered" >}}
 | Library         | License      | Description                               |
 |-----------------|--------------|-------------------------------------------|
 | ChemicalX       | Apache2      | Drug-drug interaction prediction. |
-{{< /table >}}
