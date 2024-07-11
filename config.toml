@@ -6,3 +6,5 @@ theme = "ananke"
 [params]
 description = "Using computers to understand chemistry"
 theme = "ananke"
+custom_css = ["custom.css"]
+

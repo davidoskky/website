@@ -1,0 +1,37 @@
+.mw8 {
+  max-width: 80%;
+  margin: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 1em;
+  min-width: 400px;
+}
+
+/* Table cell and header styling */
+td,
+th {
+  border: 1px solid #333;
+  padding: 10px 15px;
+  text-align: left;
+}
+
+/* Header row styling */
+th {
+  background-color: #f4f4f4;
+  color: #333;
+  font-weight: bold;
+}
+
+/* Zebra stripe rows for readability */
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+/* Hover effect for table rows */
+tr:hover {
+  background-color: #f1f1f1;
+}

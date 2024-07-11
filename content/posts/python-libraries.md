@@ -10,7 +10,6 @@ Python is a powerful programming language widely used in various scientific fiel
 
 ### Cheminformatics
 
-{{< table "table table-striped table-bordered" >}}
 | Library         | License      | Description                               |
 |-----------------|--------------|-------------------------------------------|
 | RDKit           | Open Source  | Cheminformatics tools for molecular modeling. |
@@ -27,7 +26,6 @@ Python is a powerful programming language widely used in various scientific fiel
 | PatentChem      | MIT          | Searches USPTO for patented molecules. |
 | Metgem          | GPL3         | Molecular networks generation. |
 | pyADA           | GPL3         | Compute applicability domain of ML models. |
-{{< /table >}}
 
 
 ### Molecular Dynamics
