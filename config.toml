@@ -2,6 +2,7 @@ baseURL = "https://blog.crucitti.xyz/"
 languageCode = "en-us"
 title = "OTChem"
 theme = "ananke"
+enableRobotsTXT = true
 
 [params]
 description = "Using computers to understand chemistry"
